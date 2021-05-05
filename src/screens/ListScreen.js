@@ -24,7 +24,7 @@ const ListScreen = () => {
     );
 }
 
-const styles = StyleSheet.create=({
+const styles = StyleSheet.create({
     textStyle: {
         marginVertical: 50
     }
